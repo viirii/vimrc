@@ -29,7 +29,9 @@ set guioptions-=L
 
 " Colorscheme
 set background=dark
-colorscheme peaksea
+colorscheme neodark
+let g:neodark#use_256color = 1 " default: 0
+"
 
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
